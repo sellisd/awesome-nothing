@@ -4,11 +4,11 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/sellisd/awesome-nothing/actions/workflows/lint.yaml/badge.svg)](https://github.com/sellisd/awesome-nothing/actions/workflows/lint.yaml)
+# Awesome Nothing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/sellisd/awesome-nothing/actions/workflows/lint.yaml/badge.svg)](https://github.com/sellisd/awesome-nothing/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+A list of resources on the boundary of sense.
 
 <!-- image -->
 

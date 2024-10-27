@@ -40,6 +40,7 @@ Deeply understanding a concept requires an understanding of what lies just outsi
 - [Invisible characters](https://invisible-characters.com/) - Empty strings with characters.
 - [Whitespace](https://esolangs.org/wiki/Whitespace) - Esoteric programming language using only white space characters.
 - [Empty files](https://cable.ayra.ch/empty/) - Collection of empty files.
+- [The Null Packet](https://datatracker.ietf.org/doc/html/rfc6592) - Easter egg RFC.
 
 ## Engineering
 

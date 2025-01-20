@@ -40,6 +40,11 @@ Deeply understanding a concept requires an understanding of what lies just outsi
 - [Invisible characters](https://invisible-characters.com/) - Empty strings with characters.
 - [Whitespace](https://esolangs.org/wiki/Whitespace) - Esoteric programming language using only white space characters.
 - [Empty files](https://cable.ayra.ch/empty/) - Collection of empty files.
+- [Null device /dev/null](https://en.wikipedia.org/wiki/Null_device) - Device file discarding any incoming data.
+- [Zero device /dev/zero](https://en.wikipedia.org/wiki//dev/zero) - Device file with null characters.
+
+## Networking
+- [IPv6 black hole](https://datatracker.ietf.org/doc/html/rfc6666) - Discard prefix for IPv6.
 - [The Null Packet](https://datatracker.ietf.org/doc/html/rfc6592) - Easter egg RFC.
 
 ## Engineering
